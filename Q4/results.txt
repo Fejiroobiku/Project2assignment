@@ -1,0 +1,19 @@
+Keyword: 'ERROR'
+Search results:
+========================================
+
+[test1.log]: [ERROR] Database connection failed
+[test1.log]: [INFO] Server started
+[test1.log]: [ERROR] Authentication error
+[test2.log]: [ERROR] Permission denied
+[test2.log]: [INFO] Process completed
+[test2.log]: [ERROR] Invalid input
+
+========================================
+SUMMARY
+========================================
+Total occurrences found: 4
+Files processed: 2
+Execution time: 5.68 ms
+Threads used: 2
+========================================
